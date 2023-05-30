@@ -6,8 +6,8 @@ In recent years, City hotel and Resort hotel have seen high cancellation rates. 
 The analysis of hotel booking cancellation  as well as other factor that have no bearing on their business and yearly revenue generation and the main topic of this report.
 
 ## Assumption
-~ No unusual occurrence between 2015 and 2017 will have a substantial impact on the data used.
-~ The information is still current and can be analyze a hotel's possible plans in an efficient manner.
+* No unusual occurrence between 2015 and 2017 will have a substantial impact on the data used.
+* The information is still current and can be analyze a hotel's possible plans in an efficient manner.
 ~ There are no unanticipated negatives to hotel employing any advised technique.
 ~ The hotels are not currently using any of the suggested solutions.
 ~ The biggest factor effecting the effectiveness of earning income is booking cancellation.
@@ -21,5 +21,5 @@ The analysis of hotel booking cancellation  as well as other factor that have no
 
 ## Hypothesis
 ~ More cancellation occur when price are higher.
-~ When thwre is longer waiting list, customers tends to cancel more frequently.
+~ When there is longer waiting list, customers tends to cancel more frequently.
 ~ The majority of  client are coming from offline travel agents to make their reservations.
